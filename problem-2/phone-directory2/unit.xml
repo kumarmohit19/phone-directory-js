@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="5.801" tests="9" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-01T20:56:29" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Phone Directory app 
+" timestamp="2022-01-01T20:56:29" tests="9" file="/projects/challenge/test/test.js" failures="0" time="5.801">
+    <testcase name="Phone Directory app 
+ should show error when input fields are empty" time="0.17" classname="should show error when input fields are empty">
+    </testcase>
+    <testcase name="Phone Directory app 
+ should show error when Invalid Inputs are given" time="1.861" classname="should show error when Invalid Inputs are given">
+    </testcase>
+    <testcase name="Phone Directory app 
+ should add the contact on clicking Add" time="0.493" classname="should add the contact on clicking Add">
+    </testcase>
+    <testcase name="Phone Directory app 
+ should reset after adding a contact" time="0.315" classname="should reset after adding a contact">
+    </testcase>
+    <testcase name="Phone Directory app 
+ should allow sort by Contact Name Ascending" time="0.553" classname="should allow sort by Contact Name Ascending">
+    </testcase>
+    <testcase name="Phone Directory app 
+ should allow sort by Contact Name Descending" time="0.538" classname="should allow sort by Contact Name Descending">
+    </testcase>
+    <testcase name="Phone Directory app 
+ should show #f2f2f2 in alternate rows" time="0.684" classname="should show #f2f2f2 in alternate rows">
+    </testcase>
+    <testcase name="Phone Directory app 
+ should show correct rows if searched with mobile number" time="0.847" classname="should show correct rows if searched with mobile number">
+    </testcase>
+    <testcase name="Phone Directory app 
+ should show No Results found &lt;div&gt;, if no Mobile numbers gets filtered in search" time="0.34" classname="should show No Results found &lt;div&gt;, if no Mobile numbers gets filtered in search">
+    </testcase>
+  </testsuite>
+</testsuites>
